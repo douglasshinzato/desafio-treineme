@@ -38,7 +38,7 @@ Treine.me project is a website for a fictional exercise program where the main p
 
 ## 🔖 Layout
 
-You can checkout the project layout by [this link](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1). You must have a [Figma](https://figma.com) account to access.
+You can checkout the project layout by [this link](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1){:target="_blank"}. You must have a [Figma](https://figma.com){:target="_blank"} account to access.
 
 ## :memo: License
 
